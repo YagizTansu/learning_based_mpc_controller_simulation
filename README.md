@@ -1,4 +1,4 @@
-# SteerAI: Learning-Based MPC for Autonomous Racing
+# Learning-Based MPC for Autonomous Racing
 
 This project implements a learning-based Model Predictive Controller (MPC) for the POLARIS GEM e2 vehicle in a ROS Noetic simulation environment. It consists of three main stages: Data Collection, System Identification, and MPC Control.
 
